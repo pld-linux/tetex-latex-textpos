@@ -2,7 +2,7 @@
 %define short_name textpos
 
 Summary:	Lay out text and graphics at arbitrary positions on the LaTeX page
-Summary(pl):	Umieszczanie tekstu i grafiki w dowolnej pozycji na stronia LaTeXa
+Summary(pl):	Umieszczanie tekstu i grafiki w dowolnej pozycji na stronie LaTeXa
 Name:		tetex-latex-%{short_name}
 Version:	1.4
 Release:	1
