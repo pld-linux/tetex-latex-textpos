@@ -4,12 +4,12 @@
 Summary:	Lay out text and graphics at arbitrary positions on the LaTeX page
 Summary(pl):	Umieszczanie tekstu i grafiki w dowolnej pozycji na stronie LaTeXa
 Name:		tetex-latex-%{short_name}
-Version:	1.4
+Version:	1.6a
 Release:	1
 License:	GPL
 Group:		Applications/Publishing/TeX
-Source0:	http://www.astro.gla.ac.uk/users/norman/distrib/latex/%{short_name}-%{version}.tar.gz
-# Source0-md5:	f8f347198edffc8a6f72f386579d9154
+Source0:	http://nxg.me.uk/dist/textpos/%{short_name}-%{version}.tar.gz
+# Source0-md5:	c053d026dc5a79aa6a16559906e1ff2d
 URL:		http://www.astro.gla.ac.uk/users/norman/distrib/latex/#textpos
 BuildRequires:	tetex-format-pdflatex
 Requires(post,postun):	/usr/bin/texhash
