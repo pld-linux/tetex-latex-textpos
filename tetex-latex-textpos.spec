@@ -2,7 +2,7 @@
 %define short_name textpos
 
 Summary:	Lay out text and graphics at arbitrary positions on the LaTeX page
-Summary(pl):	Umieszczanie tekstu i grafiki w dowolnej pozycji na stronie LaTeXa
+Summary(pl.UTF-8):   Umieszczanie tekstu i grafiki w dowolnej pozycji na stronie LaTeXa
 Name:		tetex-latex-%{short_name}
 Version:	1.7a
 Release:	1
@@ -25,10 +25,10 @@ LaTeX page. There are several reasons why this might be useful, but
 the main one (or at least my motivating one) is to help produce a
 large-format conference poster.
 
-%description -l pl
-Ten pakiet u≥atwia umieszczanie pude≥ek w absolutnym po≥oøeniu na
-stronie LaTeXa. Jest kilkana∂cie powodÛw dlaczego to moøe byÊ
-uøyteczne, ale g≥Ûwnym (albo przynajmniej tym motywuj±cym) jest pomÛc
+%description -l pl.UTF-8
+Ten pakiet u≈Çatwia umieszczanie pude≈Çek w absolutnym po≈Ço≈ºeniu na
+stronie LaTeXa. Jest kilkana≈õcie powod√≥w dlaczego to mo≈ºe byƒá
+u≈ºyteczne, ale g≈Ç√≥wnym (albo przynajmniej tym motywujƒÖcym) jest pom√≥c
 w produkcji wielkoformatowego plakatu konferencji.
 
 %prep
